@@ -29,7 +29,7 @@
   <img title="Docker" alt="docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 </p>
 
-### 📧 How to reach me
+### How to reach me
 <p>
   <a href="https://github.com/HannahPuetz"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/hannahpuetz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
