@@ -1,6 +1,6 @@
 <!-- 🌟 Animated Header with Smooth Transition & Stars (real effect) -->
 <p align="center">
-  <img src="Hello World!.gif" alt="Hello World Banner" />
+  <img src="GitHubProfileBanner.gif" alt="Profile Banner" />
 </p>
 
 <p align="center">
